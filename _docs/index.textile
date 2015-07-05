@@ -2,24 +2,44 @@
 title: the verseworks DNA
 next_section: what-is-crisp.html
 ---
-h1. What is this?
+h1. Introduction
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how verseworks works and why. 
 
-"verseworks":https://www.verseworks.com is a consulting company based in the United Kingdom. But we aren't a very typical consulting company. For example:
+We are inspired by the "Crisp DNA":http://dna.crisp.se , and do not currently know of a better model for consulting that aligns with our values.
 
-* None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
+The model enables us to have the advantages of being independent, and the strength of being part of a larger entity.  In the future, we envisage joining like minded partner companies both locally and globally through a “backbone”, such that we can scale, collaborate and learn with others.
+
+One consequence of this model is that we forsake profiting from our consultants, partners and associates.  Briefly, this is because we believe:
+* this creates a dilemma between the interests of the client, the partners and associates
+* the process of deciding what is fair leads to complex agreements, unproductive negotiations, opacity and stress
+* profiting from others by making an introduction to a client to practice their craft is inappropriate.
+
+This does not mean we are a charity.  On the contrary, we expect to be paid for our time.  But we choose simplicity, transparency and clear ethics rather than a few extra pounds.
+
+h1. verseworks
+
+"verseworks":https://www.verseworks.com is a consulting company based in the United Kingdom. But we aren't a very typical consulting company.
+
+* None of our consultants are employed by {{ site.company_name }}
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
-* Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
-* Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
+* verseworks doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
+<!--
+
+I think this is better explained in our drivers, we want both client and consultants to be happy.
+
+  * Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
+
+  -->
+
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-crisp.html), and work as much or as little as they want.
 
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to "open source":http://en.wikipedia.org/wiki/Open_source it.
+We are deeply indebted to our friends who have helped us along this journey, and understand how this works in practice:
+* Michael Gothe
+* Thomas Bjorkholm
+* James Priest
 
-Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
-
-h2. Why open-source the Crisp DNA?
+h2. Why open-source the verseworks DNA?
 
 * To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
 * Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
@@ -30,10 +50,10 @@ h1. Contents
 
 h2. Driving principles
 
-(these principles drive almost everything at Crisp)
+(these principles drive almost everything at {{ site.company_name }} )
 
-* "What is Crisp":what-is-crisp.html - the purpose of the company
-* "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
+* "What is {{ site.company_name }} ":what-is-crisp.html - the purpose of the company
+* "How {{ site.company_name }}  works":how-crisp-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h2. Core structure and practices
@@ -53,7 +73,7 @@ h2. Core structure and practices
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 * "Sales":sales.html - how do we actually sell consultants?
-* "Crisp unconference":unconference.html - how our bi-annual unconference works
+* "{{ site.company_name }}  unconference":unconference.html - how our bi-annual unconference works
 
 h2. Supporting practices
 
@@ -72,4 +92,4 @@ h2. Supporting practices
 
 h2. Meta
 
-* "How to clone the Crisp DNA":how-to-copy.html
+* "How to clone the verseworks DNA":how-to-copy.html
