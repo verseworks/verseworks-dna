@@ -450,7 +450,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -533,7 +533,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
 
 }
 a.button small {
@@ -622,7 +622,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: 2.8em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -640,7 +640,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -655,7 +655,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -672,7 +672,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -688,7 +688,7 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: 14px;
   margin-bottom: 8px;
   color: #474747;
@@ -702,7 +702,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Rokkit', 'Garamond', Courier, serif;
+  font-family: 'Rokkitt', 'Garamond', Courier, serif;
   font-size: .8em;
   margin-bottom: 8px;
   color: #474747;
@@ -916,7 +916,7 @@ footer a:hover {
 .section-nav a, .section-nav span {
     color: #fff;
     font-size: 16px;
-    font-family: 'Rokkit', 'Garamond', Courier, serif;
+    font-family: 'Rokkitt', 'Garamond', Courier, serif;
     text-transform: uppercase;
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
     font-weight: 700;
