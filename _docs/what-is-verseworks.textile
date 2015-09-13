@@ -6,12 +6,11 @@ next_section: how-we-work.html
 
 h1(content-listing-header sans). What, and why, is verseworks?
 
-*{{ site.company_name }} is a home for IT consultants who value:*
+{{ site.company_name }} is a home for IT consultants who value:
 
 * *Integrity* - We are non-exploitative, congruent and transparent.
 * *Diversity* - We collaborate with many people who share our values. We share a lifelong passion for learning, improvement and sharing. We recognise there is no one right answer. Innovation, creativity and energy arise through our differences.
 * *Freedom* - We work autonomously and are free to choose with whom we work. We are also free to help our clients choose the same.
-* *Competence* - We want to continuously learn
 * *Good citizenship* - Heart over wallet (money isn't the main thing in life)
 * *Professionalism* - We genuinely care about solving our customers problems
 
