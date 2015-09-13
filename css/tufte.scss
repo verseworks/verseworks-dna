@@ -216,6 +216,11 @@ article.fullwidth {
 aside { width:30%; position: relative;
 float: right }
 
+blockquote{
+  padding: 0 0 0 30px;
+  font-size: small;
+}
+
 p, li{
     font-size: 1.4rem;
     line-height: 1.4;
