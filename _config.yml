@@ -1,10 +1,10 @@
 baseurl:
-title: Tufte
-subtitle: Content-centric blogging
+title: the verseworks DNA
+subtitle: Operating model of very different consulting company
 #author: clay harmon
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
+description: The operationg model of a very different consulting company
+name: the verseworks DNA
 markdown: Kramdown
 kramdown:
   input: GFM
