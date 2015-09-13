@@ -4,7 +4,7 @@ prev_section: index.html
 next_section: how-we-work.html
 ---
 
-h1(content-listing-header sans). What is verseworks and why?
+h1(content-listing-header sans). What, and why, is verseworks?
 
 *{{ site.company_name }} is a home for IT consultants who value:*
 
