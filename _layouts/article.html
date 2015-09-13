@@ -3,9 +3,14 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <article>
-      {{ content }}
+    <aside>
+      {% include docs_contents.html %}
+    </aside>
+    <article class="fullwidth">
+        {{ content }}
+<!--    {% include section_nav.html %}  -->
     </article>
+
     {% include print-footer.html %}
     {% include footer.html %}
   </body>
