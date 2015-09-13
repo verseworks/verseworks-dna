@@ -4,7 +4,7 @@ prev_section: what-is-verseworks.html
 next_section: why-this-works.html
 ---
 
-h1(content-listing-header sans). How {{ site.company_name }} works
+h1(content-listing-header sans). How we work
 
 We'll publish our own picture here soon, below summarizes our current practice.
 
