@@ -4,7 +4,7 @@ prev_section: board.html
 next_section: visions.html
 ---
 
-h1. Our business
+h1(content-listing-header sans). Our business
 
 Formally, {{site.company_name}} doesn't really have a business area. We are consultants and people can do whatever they want. Nothing about our model is specific to any domain or industry.
 
