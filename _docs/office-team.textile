@@ -4,7 +4,7 @@ prev_section: dashboard.html
 next_section: board.html
 ---
 
-h1. Office team
+h1(content-listing-header sans). Office team
 
 We share these duties between the partners for now.
 
@@ -16,4 +16,4 @@ We share these duties between the partners for now.
 
 h2. What about sales?
 
-We work with various friends who make introductions.  Sales is mostly done dierctly by the consultants themselves.
+We work with various friends who make introductions.  "Sales":sales.html is mostly done directly by the consultants themselves.
