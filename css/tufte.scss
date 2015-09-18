@@ -250,6 +250,10 @@ p, article  ul li, pre code, pre code p, code{
   margin-left: 16px;
  }
 
+ .fullwidth h2, .fullwidth h1{
+   width:80%;
+ }
+
 @media screen and (max-width: 600px){
     p{
       width: 65%;
