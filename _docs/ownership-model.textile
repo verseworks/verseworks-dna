@@ -7,7 +7,7 @@ next_section: economic-model.html
 
 h1(content-listing-header sans). Ownership model
 
-{{ site.company_name }} is a Limited Liability Partnership (LLP) registered in the United Kingdom.  Each consultant is also a partner of the LLP.
+*{{ site.company_name }}* is a Limited Liability Partnership (LLP) registered in the United Kingdom.  Each consultant is also a partner of the LLP.
 
 All partners sign the same agreement, and are equal.
 
