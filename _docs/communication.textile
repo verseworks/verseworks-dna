@@ -8,11 +8,11 @@ h1(content-listing-header sans). Communication
 
 Our *main internal communication channels* are:
 
-
 * Team Meetings, held about every 6 weeks.
 * "Slack":http://www.slack.com for... most things.
 * Team mailing list - a single mailing list with everyone on it. .
 * "Doodle":http://doodle.com - We use Doodle to agree times, locations and meetings.
+* "Trello":http://trello.com 
 
 Most decisions are made, and most problems solved, in one of the above forums.
 
@@ -21,7 +21,7 @@ Where we *store info*:
 * GitHub - a github organization account for shared code and, well, the {{$site.company_name}} DNA that you are reading right now.
 
 How we *communicate with the outside world*:
-* Our website - "www.versewworks.com":http://www.verseworks.com
+* Our website - "www.verseworks.com":http://www.verseworks.com
 * A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 * Twitter - our twitter handle is "@verseworks":https://twitter.com/verseworks/
 * "Linkedin":https://www.linkedin.com/company/10070842?trk=prof-exp-company-name
