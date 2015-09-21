@@ -4,7 +4,7 @@ prev_section: email-conventions.html
 next_section: industries-that-we-avoid.html
 ---
 
-h1(content-listing-header sans).Hand Signals
+h1(content-listing-header sans). Hand Signals
 
 Hand signals are an essential part of our "communication":communication.html and "decision-making":decisions.html system, especially for important decisions that affect many people.
 
