@@ -9,10 +9,11 @@ h1(content-listing-header sans). Communication
 Our *main internal communication channels* are:
 
 * Team Meetings, held about every 6 weeks.
+* Twice-weekly synch meetings: "our slack up".
 * "Slack":http://www.slack.com for... most things.
 * Team mailing list - a single mailing list with everyone on it. .
 * "Doodle":http://doodle.com - We use Doodle to agree times, locations and meetings.
-* "Trello":http://trello.com 
+* "Trello":http://trello.com
 
 Most decisions are made, and most problems solved, in one of the above forums.
 
