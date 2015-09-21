@@ -4,7 +4,7 @@ prev_section: office-team.html
 next_section: our-business.html
 ---
 
-h1. Board of directors
+h1(content-listing-header sans). Board of directors
 
 Being a Swedish company, we are required to have a board of directors. In most companies, the board is appointed by the owners to represent them so that the management group, headed by the CEO, runs the company according to the directives from the owners and the board.
 
@@ -14,7 +14,7 @@ h2. What does the board do?
 
 The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Crisp is OK and that the Crispers and the "office team":office-team.html are happy. The meetings are open for any Crispers to attend if they wish.
 
-Managing the finances involves keeping an eye on the liquidity to be able to do day-to-day business and to aim for a zero result at the end of the fiscal year. See "Economic Model":economic-model.html for details. 
+Managing the finances involves keeping an eye on the liquidity to be able to do day-to-day business and to aim for a zero result at the end of the fiscal year. See "Economic Model":economic-model.html for details.
 
 If there is any Crisper with a low score on "Happiness Index":happiness-index.html, a board members takes it upon themselves to call that person and to try and find out what can be done to make the Crisper happier.
 
