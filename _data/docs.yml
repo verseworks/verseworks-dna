@@ -23,7 +23,7 @@
 
 - title: Supporting practices
   docs:
-  - email-conventions.html
+#  - email-conventions.html
   - hand-signals.html
 #  - industries-that-we-avoid.html
   #- hack-summit.html
