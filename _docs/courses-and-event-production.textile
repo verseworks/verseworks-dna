@@ -28,7 +28,6 @@ h2. Example
 Here's a high-level summary of what happens with a typical course:
 
 # Tarquin decides to teach an Agile Engineering course.
-# Tarquin opens the {{site.company_name}} calendar on Google, finds an open slot Feb 12-13, and writes "LOKAL: Agile Engineering course (Tarquin)". (LOKAL means "venue" in Swedish, our convention for booking different parts of the office)
 # Tarquin asks the "office team":office-team.html to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
 # Tarquin synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
 # Registrations start coming in.  Course registrations automatically end up in Google Spreadsheet.
