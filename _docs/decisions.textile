@@ -29,7 +29,7 @@ Instead, we follow these principles/guidelines:
 * *Important decisions should be documented in our "decision log":dashboard.html and emailed to everyone*
 * Some decisions lead to funded “projects”, like a new website.
 
-<!-- TODO when we have a "crisplet" equivalent.
+<!-- TODO when we have a "crisplet" equivalent. -->
 
 <!-- TODO update with SOC3 protocols -->
 
