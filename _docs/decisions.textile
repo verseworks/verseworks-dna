@@ -81,6 +81,6 @@ Here are some options:
 
 * *Take a chance!* “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just accept feedback and learn.
 * *Talk to a {{site.company_name}} colleague*, for example someone who has been around longer and can give examples of what has worked in the past.
-* *Check if someone else can drive* the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next {[site.company_name]} unconference to be in the Maldives I’d involve the "office team":office-team.html, since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
+* *Check if someone else can drive* the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next {{site.company_name}} unconference to be in the Maldives I’d involve the "office team":office-team.html, since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 
 <!-- TODO there was a note about escalation here -->
