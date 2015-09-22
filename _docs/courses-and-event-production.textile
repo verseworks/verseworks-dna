@@ -19,7 +19,7 @@ Driving principles:
 * As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
 * As Producer, you are responsible for booking the training venue.
 * As Producer, you own the financial result of your course (win or loss). Just like with consulting, {{site.company_name}} retains X% of your profit (see "economic model":economic-model.html).
-* {{site.company_name}} role is to be the "platform", providing things such as administrative support (invoices, lunch reservation, email communication, registration page, etc). The Producer will arrange .  Sometimes we partner with more established companies to provide these things and assist with marketing.
+* {{site.company_name}} role is to be the "platform", providing things such as administrative support (invoices, lunch reservation, email communication, registration page, etc). Sometimes we partner with more established companies to provide these things and assist with marketing.
 
 The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of {{site.company_name}} who is a well-known "guru" within his/her field) and host or co-teach a course.
 
