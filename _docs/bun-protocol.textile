@@ -4,11 +4,9 @@ prev_section: communication.html
 next_section: dashboard.html
 ---
 
-h1. The Bun Protocol
+h1(content-listing-header sans). The Bun Protocol
 
-The Bun protocol ("Bullprotokollet" in Swedish) is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
-
-bq. We introduced this to Crisp a few years ago because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an "extract to interface":http://sourcemaking.com/refactoring/extract-interface refactoring and created this "Bun Protocol" :o)
+The Bun protocol is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
 h2. The metaphor
 
@@ -47,7 +45,7 @@ h2. Summary of the rules
 * *A bun should not get more than 1-2 days old* without being eaten by somebody, thrown away, or reheated (by talking to the customer/sender).
 * *You can't push a bun onto someone else, they have to pull*. The bun is yours until someone else explicitly takes it (for example by saying "I'll take the bun"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a bun, you don't have to respond if you aren't interested.
 * When in doubt:
-** Broadcast an email to everybody who might be interested or involved in this bun (write BULLE in the subject, as per our "email conventions":email-conventions.html)
+** Broadcast an email to everybody who might be interested or involved in this bun (write BUN! in the subject, send to curious@verseeworks.com)
 ** or send the bun to "upwards" or to a central person such the board or our business developer. For example if the bun seems to be strategic and might lead to a big dinner.
 
 We don't always succeed in following these rules, especially the 1-2 day age limit. But we really try our best, and we're at least aware of when we fail.
@@ -76,19 +74,19 @@ We don't know. But it has worked well enough so far, and we haven't come up with
 
 h3. What if several people want the same bun?
 
-If several people are interested in the same bun, they talk to each other and sort it out. 
+If several people are interested in the same bun, they talk to each other and sort it out.
 
-Strictly speaking, the first person to take the bun has it, so in theory we have a race condition. In practice, however, when a potential conflict arises the involved people talk to each other (by phone or email) and decide on who should take the bun, based on who can serve the client best, who needs the bun most, and other relevant factors. 
+Strictly speaking, the first person to take the bun has it, so in theory we have a race condition. In practice, however, when a potential conflict arises the involved people talk to each other (by phone or email) and decide on who should take the bun, based on who can serve the client best, who needs the bun most, and other relevant factors.
 
 So being the bun holder doesn't really mean "this is MY client", it means more like "I'll make sure this gets taken care of!" - (by me or whoever else is most suitable).
 
-We've used this protocol for years and we very rarely have serious conflicts around bun routing. We get *potential* conflicts regularly (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
+We get *potential* conflicts regularly (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
 
 The "conflict handling process":conflict-handling.html should help solve the edge cases.
 
 h3. What if it is a business-critical request? Shouldn't some central authority handle it?
 
-The closest thing we have to a central authority is the "board":board.html, and our business developer. If one of them received the request then, well, they already have it.
+The closest thing we have to a central authority is the acting Finance Officer. If one of them received the request then, well, they already have it.
 
 What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
 
@@ -116,11 +114,9 @@ h3. What about traceability?
 
 Traceability can be useful, for example we could write the buns into a backlog or CRM system or something. That doesn't conflict with the bun protocol, we could just add that on top. But traceability has a cost. The overhead cost of each bun increases, due to writing & reading & updating information in a tool. So we don't really prioritize traceability.
 
-bq. We've experimented a bit with visualizing buns in google spreadsheets and drawings (we called it the "bun tray"...). In most cases the efforts were abandoned as we realized that email gave 80% of what we needed for 20% of the effort. So we mostly stick to email and simple techniques like tagging. If we need to dig up an old bun we can find it by searching the email, and our "email conventions":email-conventions.html help a lot with that. Of course, I can't dig up other people's old buns but that's OK. Eaten buns don't look very good anyway :o)
-
 h3. Won't a bun get dry if it gets sent around between people for too long?
 
-Yes. So keep that in mind when you pass around buns. Check the age, all emails have dates. Use common sense. If it is an urgent bun, it is getting old and you want to send to someone else, then call instead of sending email. Or write "OBS" in the email subject (see "email conventions":email-conventions.html).
+Yes. So keep that in mind when you pass around buns. Check the age, all emails have dates. Use common sense. If it is an urgent bun, it is getting old and you want to send to someone else, then call instead of sending email.
 
 h3. How do we avoid buns getting dropped between chairs
 
@@ -130,7 +126,7 @@ Be very clear in your communication. Short, clear phrases like:
 * "I'm taking the bun!"
 * "I will throw this bun away if nobody takes it by Tuesday"
 
-We use the subject-line BULLE for all bun-routing emails (see "email conventions":email-conventions.html).
+We use the subject-line HELP! for all bun-routing emails.
 
 h3. What would be alternatives to the bun protocol?
 
